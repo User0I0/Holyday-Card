@@ -1,6 +1,10 @@
-.card{
-    body{
-        background: black;
-    }
+body {
+    background: black;
+}
 
+.card {
+    background-image: url(./bg.png);
+    width: 1230px;
+    height: 693px;
+    margin: 0 auto;
 }
