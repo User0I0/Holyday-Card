@@ -11,14 +11,12 @@ body {
 .text{
     width: 567px;
     height: 250px;
-    background: rgb(246, 239, 235);
     margin: 0 auto;
 
 }
 .text.a{
     width: 549px;
     height: 129px;
-    background: rgb(97, 36, 0);
     margin: 0 auto;
 
 }
